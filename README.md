@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning
+
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=D77A65&labelColor=F7E018)
+![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=61dbfb&color=20232a&labelColor=20232a)
+
+
 <!--
 **AbreuY/AbreuY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
