@@ -7,4 +7,4 @@
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=F7E018&labelColor=F7E018)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=61dbfb&color=20232a&labelColor=20232a)
 
-[![AbreuY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbreuY&show_icons=true&theme=dracula)](https://github.com/AbreuY/github-readme-stats)
+[![AbreuY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbreuY&show_icons=true&theme=dracula)](https://github.com/AbreuY)
