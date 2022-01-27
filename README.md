@@ -13,4 +13,9 @@
 ![](https://img.shields.io/badge/Flask-SQLAlchemy-informational?style=flat&logo=flask&logoColor=white&color=000000&labelColor=000000)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=FFFFFF&color=326691&labelColor=326691)
 
+### Also interested in Android mobile development
+![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=78C257&color=FFFFFF&labelColor=FFFFFF)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=E11A22&color=DEE4E4&labelColor=DEE4E4)
+
+
 [![AbreuY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbreuY&show_icons=true&theme=dracula)](https://github.com/AbreuY)
