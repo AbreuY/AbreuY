@@ -12,6 +12,9 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=FFD43B&labelColor=4B8BBE)
 ![](https://img.shields.io/badge/Flask-SQLAlchemy-informational?style=flat&logo=flask&logoColor=white&color=000000&labelColor=000000)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=FFFFFF&color=326691&labelColor=326691)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=43853D&labelColor=43853D)
+![](https://img.shields.io/badge/Express.js-informational?style=flat&logoColor=white&color=404D59&labelColor=404D59)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4EA94B&labelColor=4EA94B)
 
 ### Also interested in Android mobile development
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=78C257&color=FFFFFF&labelColor=FFFFFF)
